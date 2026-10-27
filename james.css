@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid;
+    padding: 15px;
+}
+
+#table {
+    margin:auto;
+    padding-top: 15px;
+    max-width: 1000px;
+}
