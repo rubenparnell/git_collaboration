@@ -1,14 +1,31 @@
-h1 {
+h1,h2 {
   font-size: 60px;
   color: rgb(16, 193, 224);
-  text-align: center;
+  text-align: left;
   margin: 0;
   padding: 20px 0;
   text-shadow: 3px 3px 1px black;
 }
 
+p {
+  color: rgb(16, 193, 224);
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2
+{
+    font-size: 30px;
+    text-shadow: 2px 2px 1px black;
+}
+
 img {
   display: block;
-  margin: 0 auto;
   max-width: 20%;
+}
+
+.background-colour {
+    background-color: #163d5e
 }
