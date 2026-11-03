@@ -1,12 +1,12 @@
 body{
-    background-image: linear-gradient(to right, rgb(140, 0, 255), rgb(122, 8, 122));
+    /*background-image: linear-gradient(to right, rgb(140, 0, 255), rgb(122, 8, 122));*/
     color: white;
 }
 
 table, th, td {
     border: 1px solid;
     padding: 15px;
-    background-color: darkblue;
+    /*background-color: darkblue;*/
     
 }
 
@@ -18,7 +18,7 @@ h1, p{
     margin:auto;
     padding: 15px;
     max-width: 1000px;
-    background-color: darkblue;
+    /*background-color: darkblue;*/
 
 
 }
