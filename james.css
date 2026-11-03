@@ -1,5 +1,6 @@
 body{
     background-image: linear-gradient(to right, rgb(140, 0, 255), rgb(122, 8, 122));
+    color: white;
 }
 
 table, th, td {
